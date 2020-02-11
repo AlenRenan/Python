@@ -3,7 +3,7 @@
 
 int main()
 {
-    //Atribuição de Valores
+    //AtribuiÃ§Ã£o de Valores
     float peso;
     float altura;
     float imc;
@@ -16,7 +16,7 @@ int main()
         scanf("%f", &altura);
     printf("\n\nInsira seu peso (Use apenas ponto): ");
         scanf("%f", &peso);
-    //Cálculo do imc
+    //CÃ¡lculo do imc
    imc = peso / (altura * altura);
     ;printf ("\nSeu imc e: %f", imc);
     ;printf ("\n\n=========================================================");
