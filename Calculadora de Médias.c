@@ -3,7 +3,7 @@
 
 int main()
 {
-    //DeclaraÁ„o de Vari·veis - N„o faz parte do programa abaixo:
+    //Declara√ß√£o de Vari√°veis - N√£o faz parte do programa abaixo:
    int valor1 = 3, valor2 = 4;
    float media;
 
@@ -16,7 +16,7 @@ int main()
    printf ("\nForneca o Segundo Valor: ");
    scanf ("%d", &valor2);
 
-   //C·lculo da mÈdia
+   //C√°lculo da m√©dia
    media = (valor1 + valor2)/2.0;
 
    printf("\n A media entre %d e %d = %f", valor1, valor2, media);
