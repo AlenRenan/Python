@@ -20,7 +20,6 @@ int main(){
         while(cont<10);
     }
 
-    //Começo do desafio
 
 
 
