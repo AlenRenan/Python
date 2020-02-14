@@ -21,3 +21,4 @@ int main()
     ;printf ("\nSeu imc e: %f", imc);
     ;printf ("\n\n=========================================================");
 }
+//Renan Alencar
