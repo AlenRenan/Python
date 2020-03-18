@@ -4,7 +4,6 @@ print ('DESCUBRA SEU IMC')
 peso   = float (input ('Insira seu peso:'))
 altura   = float (input ('Insira sua altura:'))
 
-print ('Os valores estão corretos ?')
 
 print  ('PESO:{}Kg'.format (peso))
 print ('Altura: {}m'.format (altura))
